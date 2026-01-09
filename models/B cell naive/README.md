@@ -1,5 +1,5 @@
-# CD4_Treg models
+# B cell naive models
 
-Place one or more CD4_Treg model files here.
+Place one or more B cell naive file here.
 
 Recommended format: `.json` (COBRA JSON).
