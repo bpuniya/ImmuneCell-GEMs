@@ -11,9 +11,8 @@ A curated, standardized collection of **immune cell genome-scale metabolic model
 - `models/`  
   Place model files here (recommended: `.json` or `.mat`; `.xml` supported). Organize by cell type:
   - `models/CD4_Teff/`
-  - `models/CD4_Treg/`
-  - `models/CD8_Naive/`
-  - `models/Eosinophil/`
+  - `models/CD4_TNaive/`
+  - `models/B cellNaive/`
   - etc.
 
 - `metadata/`  
