@@ -1,0 +1,15 @@
+cell_type: Eosinophil
+tests:
+  hypoxia_glycolytic_shift:
+    expected:
+      lactate_secretion: increase
+      o2_uptake: decrease
+    rationale: "Hypoxia shifts energy production toward glycolysis and lactate secretion."
+  glucose_limitation:
+    expected:
+      lactate_secretion: decrease
+    rationale: "Lower glucose reduces glycolytic throughput and lactate production."
+  butyrate_uptake:
+    expected:
+      biomass_or_atp: variable
+    rationale: "SCFAs can alter effector function/survival; direction may depend on model context."

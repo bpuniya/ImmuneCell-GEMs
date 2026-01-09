@@ -1,0 +1,7 @@
+{
+  "name": "butyrate_uptake",
+  "description": "Allow butyrate (or 2-hydroxybutyrate placeholder) uptake.",
+  "exchange_bounds": {
+    "EX_2hb[e]": -5
+  }
+}

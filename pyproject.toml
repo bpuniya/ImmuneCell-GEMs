@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "immune-gems"
+version = "0.1.0"
+description = "Utilities for standardized immune-cell GEM simulations and validation panels"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Bhanwar Lal Puniya"}]
+
+[tool.setuptools.packages.find]
+where = ["src"]

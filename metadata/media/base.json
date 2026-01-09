@@ -1,0 +1,16 @@
+{
+  "name": "base",
+  "description": "Base minimal medium (edit to your standard). Values are uptake lower bounds (negative for uptake).",
+  "exchange_bounds": {
+    "EX_o2[e]": -50,
+    "EX_glc_D[e]": -10,
+    "EX_gln_L[e]": -2,
+    "EX_h2o[e]": -1000,
+    "EX_na1[e]": -1000,
+    "EX_k[e]": -1000,
+    "EX_cl[e]": -1000,
+    "EX_pi[e]": -10,
+    "EX_so4[e]": -10,
+    "EX_nh4[e]": -5
+  }
+}

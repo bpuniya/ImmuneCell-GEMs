@@ -1,0 +1,2 @@
+model_id,cell_type,format,path,source,organism,donor_id,condition,tissue,omics_source,reconstruction_tool,objective,notes
+EXAMPLE_EOS_001,Eosinophil,json,models/Eosinophil/EXAMPLE_EOS_001.json,placeholder,Homo sapiens,D001,healthy,blood,scRNA,custom,Biomass_EOS,Replace with real model

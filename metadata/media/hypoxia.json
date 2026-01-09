@@ -1,0 +1,7 @@
+{
+  "name": "hypoxia",
+  "description": "Hypoxia condition: reduced oxygen uptake.",
+  "exchange_bounds": {
+    "EX_o2[e]": -1
+  }
+}

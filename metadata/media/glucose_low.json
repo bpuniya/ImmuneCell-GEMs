@@ -1,0 +1,7 @@
+{
+  "name": "glucose_low",
+  "description": "Glucose-limited condition.",
+  "exchange_bounds": {
+    "EX_glc_D[e]": -1
+  }
+}
